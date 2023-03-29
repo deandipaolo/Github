@@ -18,7 +18,9 @@ TODO, if applicable
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable
+Dean DiPaolo (me), dean.dipaolo@temple.edu, TA: Rahad Arman Nabid
+Ray Mele, raymond.mele@temple.edu, TA: Rahad Arman Nabid
+Logan Marks, logan.marks@temple.edu, TA: Xinwen Zhang
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
