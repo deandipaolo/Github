@@ -3,7 +3,7 @@
 ## What idea(s) do you have for your final project?
 
 Lyft and Uber price map to share costs and different locations to compare
-
+Interactive casino and monte carlo simulations
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
