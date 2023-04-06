@@ -30,12 +30,23 @@ Twitter Bot will send a tweet when a home run is hit. It will post a specified p
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+TwitterBot will show the current score of the game and what inning it currently is.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+Twitter Bot will let users pick any MLB player and send homerun alerts for that player. It could also allow the user to look up other analytics like RBIs, On base percentage, slugging, etc.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+Next steps will look as follows:
+- New Skills?
+  - Learn about Twitter API process, use, and syntax
+  - Learn how to access websites and their information
+  - Learn how to export that information into a tweet
+- Topics?
+  - Twitter API
+  - Python web crawling
+  - More advanced importing
+
+	Each classmate will be responsible for learning all of the above so we can each equally contribute to the program.
+
