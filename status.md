@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+So far we have a google sheet that automatically updates according to Kyle Schwarber's live performance. We have code that pulls from the google sheet to produce the stat requested from Kyle Schwarber, specifically home runs.
 
 #### What have you not done for your project yet?
 
-TODO
+We have not been able to bring out program onto a Discord bot yet.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Twitter API is no longer free, so we have to change our project to a Discord Bot.
