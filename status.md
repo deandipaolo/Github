@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Dean DiPaolo
 
 #### Your section leader's name
 
-TODO
+Rahad Arman Nabid
 
 #### Project title
 
-TODO
+Schwarbot
 
 ***
 
